@@ -17,5 +17,5 @@ Predict product sales in different types of supermarkets
 -  We choose randomly 75% of the data to train our
    models. The rest 25% of the data
    for estimating the models preformence.
-   
-- 
+
+- conclusion is attached to root 
